@@ -1,0 +1,13 @@
+scraper:
+  root-url: https://www.reality.sk/prenajom/?location_ids=[%22100001002%22,%22100001003%22,%22100001001%22,%22100001004%22]&categories_all-2=[10,11,12,13]
+  parallelism: 4
+  main-page-tags:
+    - test
+    - test
+  posting-tags:
+    - test
+    - test
+db:
+  uri:
+  username:
+  password:
